@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\patry\source\repos\zaliczenie\zaliczenie\Game.cpp(91,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  Player.cpp
+  kulki.cpp
+  Generowanie kodu...
+  zaliczenie.vcxproj -> C:\Users\patry\source\repos\zaliczenie\Debug\zaliczenie.exe
