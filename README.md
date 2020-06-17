@@ -12,4 +12,4 @@ W grze zawarte zostały zawarte następujące zagadnienia:
   - szablon funkcji (kulki.cpp 3 linijka)
   - wyjątki (Game.cpp 120 linijka)
   - pliki .h z deklaracjami i .cpp z definicjami metod
-  - Linkery (przy kompilacji pod linuxem w makefile).
+  - Linkery (przy kompilacji pod linuxem w makefile)
